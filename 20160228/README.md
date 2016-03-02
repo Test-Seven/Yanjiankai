@@ -8,6 +8,7 @@
 * ![Very Bad Network](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/network/IMG_0335.PNG)
 * ![Wifi](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/network/IMG_0336.PNG)
 2. 使用任意的抓包工具对任意的App进行抓包，并给出抓包截图 
+ * ![App抓包](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/APP/H%60756Y%7DCDWQGUUICZ09K6(O.png)
 3. 获取proxy tool的默认的SSL证书，并在android or ios上进行安装并给出截图 
 4. if有MAC的话，编译打包出任意一个iso的debug的app，并给出debug app的路径，
    else 编译打包出任意一个android的debug的app，并给出android的keystore的目录所在
