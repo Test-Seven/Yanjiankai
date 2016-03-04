@@ -14,3 +14,6 @@
 * ![https抓包](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/APP/taobao.png)
 4. if有MAC的话，编译打包出任意一个iso的debug的app，并给出debug app的路径，
    else 编译打包出任意一个android的debug的app，并给出android的keystore的目录所在
+* ![debug_APP所在路径](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/APP/app-debug-unaligned.apk)
+* ![debug_APP所在路径](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/APP/app-debug.apk)
+* * ![android_keystore](https://github.com/Test-Seven/Yanjiankai/blob/master/20160228/APP/android_keystore.png)
