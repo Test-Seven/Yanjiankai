@@ -13,6 +13,10 @@
     * 侧重滑动事件 adb shell monkey -p packagename  --ignore-crashes --ignore-timeouts --throttle 500 --pct-touch 20 --pct-motion 50 --trackball -s 1010 -v -v -v 500
     * 侧重触摸事件 adb shell monkey -p packagename --ignore-crashes --ignore-timeouts --throttle 500 --pct-touch 60 --pct-motion 10 --trackball -s 1010 -v -v -v 500
     * 侧重按键事件 adb shell monkey -p packagename --ignore-crashes --ignore-timeouts --throttle 500 --pct-syskeys  60--pct-touch 20 --pct-motion 20 --trackball -s 1010 -v -v -v 500
+    * 停止Monkey进程
+adb shell
+ps|grep monkey
+kill id
  5. 请找出motion和touch对于的源码里的方法，并找出monkey工具实现点击的最基础的方法是什么
     * motionevent
    ![motionevent](https://github.com/Test-Seven/Yanjiankai/blob/master/20160306/shortscreen/MonkeyMotionEvent.png)
