@@ -1,6 +1,10 @@
 ### 第二次作业 
  1. 反编译任意app，并截图   
+    * 反编译QQ
+    * ![反编译QQ](https://github.com/Test-Seven/Yanjiankai/blob/master/20160306/shortscreen/decompilation_qq.png)
  2. aapt的命令查询app所需要的权限，并截图
+    * 查询App所涉及的到安全权限
+    * ![查询App的权限](https://github.com/Test-Seven/Yanjiankai/blob/master/20160306/shortscreen/aaptcheckpermission1.png)
  3. 找到任意一个apk or ipa，然后去寻找里面的db，并打开，上传截图；
     * 查询数据库截图
       ![查询数据库截图](https://github.com/Test-Seven/Yanjiankai/blob/master/20160306/shortscreen/checkdatabases.png)
